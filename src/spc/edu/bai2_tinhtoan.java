@@ -14,5 +14,6 @@ public class bai2_tinhtoan {
         int a=10,b=9;
         int tong = a+b;
         System.out.println("tong ="+tong);
+        
     }
 }
